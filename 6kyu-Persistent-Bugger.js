@@ -14,6 +14,5 @@ function persistence(num) {
         //newarr를 다시 숫자로 형변환 후 arr에 집어넣음
         arr = newarr.toString().split("");
     }
-
     return cnt;
 }
